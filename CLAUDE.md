@@ -1,4 +1,6 @@
 - Android Nativeアプリを開発する
+- プログラミング言語はKotlinを使用する
+- 画面はJetpack Composeで実装する
 - LintでCheckし、ErrorやWarningをなくすこと
 - 更新したファイルはフォーマットすること
 - 最後にビルドして成功することを確認すること
